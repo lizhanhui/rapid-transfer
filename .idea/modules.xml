@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rapid-transfer.iml" filepath="$PROJECT_DIR$/rapid-transfer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rapid-transfer-client/rapid-transfer-client.iml" filepath="$PROJECT_DIR$/rapid-transfer-client/rapid-transfer-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rapid-transfer-common/rapid-transfer-common.iml" filepath="$PROJECT_DIR$/rapid-transfer-common/rapid-transfer-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rapid-transfer-server/rapid-transfer-server.iml" filepath="$PROJECT_DIR$/rapid-transfer-server/rapid-transfer-server.iml" />
+    </modules>
+  </component>
+</project>
